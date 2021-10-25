@@ -1,19 +1,16 @@
-/*- C# Unity Game Developer
+- C# Unity Game Developer
 - DST Mod Developer
 - Artist
-- Musician*/
+- Musician
 
 using System;
-
-public class Stormesh
-{
-	string user;
 	
 	static void Main(string[] args)
 	{
+		string user;
+		
 		if (user == "Stormesh")
 		{
 			Console.WriteLine("Welcome to my profile!");
 		}
 	}
-}
