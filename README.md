@@ -4,15 +4,15 @@
 - Musician
 
 ```
-	using System;
+using System;
+
+static void Main(string[] args)
+{
+	string user;
 	
-	static void Main(string[] args)
+	if (user == "Stormesh")
 	{
-		string user;
-		
-		if (user == "Stormesh")
-		{
-			Console.WriteLine("Welcome to my profile!");
-		}
+		Console.WriteLine("Welcome to my profile!");
 	}
+}
 ```
