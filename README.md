@@ -3,7 +3,8 @@
 - Artist
 - Musician
 
-using System;
+```
+	using System;
 	
 	static void Main(string[] args)
 	{
@@ -14,3 +15,4 @@ using System;
 			Console.WriteLine("Welcome to my profile!");
 		}
 	}
+```
