@@ -1,5 +1,5 @@
 - C# Unity Game Developer
-- DST Mod Developer
+- Frontend React.js Developer
 - Artist
 - Musician
 
