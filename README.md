@@ -1,6 +1,5 @@
 - C# Unity Game Developer
-- Frontend React.js Developer
-- Artist
+- Frontend Developer (React, Vue, Svelte)
 - Musician
 
 ```
