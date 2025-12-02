@@ -1,5 +1,5 @@
-- C# Unity Game Developer
 - Frontend Developer (React, Vue, Svelte)
+- Former C# Unity Game Developer
 - Musician
 
 ```
